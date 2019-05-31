@@ -1,5 +1,5 @@
 testing-git-conflict
 ---
 Exemplo simples de resolução de conflito no Git.
-Testando conflito
+Teste de conflito no arquivo
 No arquivo de texto
